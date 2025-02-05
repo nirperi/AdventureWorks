@@ -1,2 +1,2 @@
-# AdventureWorks
+# AdventureWorks Report
 AdventureWorks Tableau Report
