@@ -2,8 +2,12 @@
 
 # 📊 AdventureWorks Sales Dashboard
 
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://tableau.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+### 🚀 Languages and Tools
+<p>
+  <img alt="Tableau" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
+  <img alt="Tableau" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" />
+</p>
+<hr style="border: 1px solid #ddd; border-width: 0.5px;">
 
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/nir.peri4228/viz/AdventureWorks_17365507224400/Cockpit)
 
