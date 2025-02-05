@@ -18,9 +18,6 @@ The AdventureWorks Sales Dashboard offers a comprehensive analysis of sales perf
 ### ✨ Unique Feature
 A distinctive feature of this dashboard is its **multi-currency functionality**, allowing users to analyze sales figures in their preferred currency, which makes it especially valuable for international market analysis and global business insights.
 
-### 📱 Try it yourself!
-You can explore the dashboard directly by clicking [here](https://public.tableau.com/app/profile/nir.peri4228/viz/AdventureWorks_17365507224400/Cockpit) or using the link above.
-
 ---
 
 <div align="center">
