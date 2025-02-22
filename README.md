@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 AdventureWorks Sales Dashboard
+# 📊 Bike Shop Dashboard
 
 ### 🚀 Languages and Tools
 <p>
